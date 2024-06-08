@@ -7,6 +7,7 @@ int main(int argc, char const *argv[])
     printf("Hello world\n");
     printf("C value is %d \n", c);
     printf("I have Joined Today.");
+    printf(" Date: 08.06.2024");
 
     return 0;
 }
